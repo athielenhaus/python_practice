@@ -1,0 +1,5 @@
+User:joe@xmple.com 2022-02-15 12:41:01,631: DEBUG: main2 Line:13 This is a debug message
+User:joe@xmple.com 2022-02-15 12:41:01,631: INFO: main2 Line:14 This is a info message
+User:joe@xmple.com 2022-02-15 12:41:01,631: WARNING: main2 Line:15 This is a warning message
+User:joe@xmple.com 2022-02-15 12:41:01,632: ERROR: main2 Line:16 This is an error message
+User:joe@xmple.com 2022-02-15 12:41:01,632: CRITICAL: main2 Line:17 This is a critical message
